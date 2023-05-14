@@ -43,7 +43,6 @@ body{
     background-color: rgb(170, 170, 170);
     border-radius: 10px;
     box-shadow: 2px 2px 2px 2px #000;
-
 }
   
 .pokemon-status h2 {
@@ -53,7 +52,7 @@ body{
   
 .pokemon-status p {
     margin-left: 15px;
-    color: rgb(25, 101, 0);
+    color: rgb(83, 83, 83);
     font-weight: bold;
 }
 
@@ -69,6 +68,33 @@ body{
 .pokemon-status p2 {
     margin-left: 15px;
     background-color: rgb(101, 0, 86);
+    padding: 3px;
+    margin: 15px;
+    color: white;
+    font-weight: bold;
+}
+
+.pokemon-status p3 {
+    margin-left: 15px;
+    background-color: darkorange;
+    padding: 3px;
+    margin: 15px;
+    color: white;
+    font-weight: bold;
+}
+
+.pokemon-status p4 {
+    margin-left: 15px;
+    background-color: aqua;
+    padding: 3px;
+    margin: 15px;
+    color: white;
+    font-weight: bold;
+}
+
+.pokemon-status p5 {
+    margin-left: 15px;
+    background-color: dodgerblue;
     padding: 3px;
     margin: 15px;
     color: white;
